@@ -70,6 +70,6 @@ public class exactCoinsChange {
 
       }
    
-
+      scnr.close();
    }
 }
