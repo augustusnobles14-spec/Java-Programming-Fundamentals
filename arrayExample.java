@@ -32,6 +32,6 @@ public class arrayExample {
         System.out.println("Maximun value: " + maxVal);
         System.out.println("Minimum value: " + minVal);
 
-        
+        scnr.close();
     }
 }
